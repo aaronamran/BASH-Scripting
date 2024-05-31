@@ -1,2 +1,2 @@
-# Linux BASH-Scripting
-Collection of Linux BASH scripting projects
+# Linux Bash Scripts
+Collection of Linux Bash scripting projects
